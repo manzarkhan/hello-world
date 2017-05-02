@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi Humans!
+Manzar here, i like to develop new website
+ses-automation.com
